@@ -1,2 +1,0 @@
-import{f as e}from"./chunk-ENK4YSX5.mjs";e();var t=a=>({description:"Founded in the year 2021, our club emerged as a passionate initiative by the students of Embedded Systems and Electrical Engineering at FST Beni Mellal. Our club is a testament to the dedication, ingenuity, and collaborative spirit of our members. ",favicon:new URL("https://framerusercontent.com/images/x4mEUiTmwhAs5xyCTVtlXj02g.png").href,title:"Club Embatric FSTBM"}),r=t;export{r as a};
-//# sourceMappingURL=chunk-JJYGMYQV.mjs.map
